@@ -1,0 +1,31 @@
+{
+  "name": "webserver-lite",
+  "description": "Plugin to run a local webserver with LiveReload based on gulp-webserver",
+  "version": "0.0.1",
+  "author": {
+    "name": "tamtakoe",
+    "email": "tamtakoe@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tamtakoe/node-webserver-lite.git"
+  },
+  "keywords": [
+    "livereload",
+    "connect",
+    "webserver"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-webserver": "0.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
