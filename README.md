@@ -67,13 +67,13 @@ Type: `String`
 Path segment. F.e. if `segment: 'admin', proxies: true, fallback: 'index.html'` server will be use `index.html` from admin directory if you get `localhost:8000/admin/`
 ```js
 serverDir
- ???admin
-      ???index.html
+ └──admin
+      └──index.html
 }];
 ```
 
 
 ## License
 
-� Oleg Istomin 2015.
+© Oleg Istomin 2015.
 Released under the MIT license
