@@ -69,7 +69,6 @@ Path segment. F.e. if `segment: 'admin', proxies: true, fallback: 'index.html'` 
 serverDir
  └──admin
       └──index.html
-}];
 ```
 
 
