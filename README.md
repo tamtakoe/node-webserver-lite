@@ -38,7 +38,7 @@ See [gulp-webserver options](https://github.com/schickling/gulp-webserver#option
 
 Extras
 
-##### livereload: <port>
+##### livereload: &lt;port&gt;
 
 Type: `Number`
 
