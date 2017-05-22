@@ -1,7 +1,7 @@
 {
   "name": "webserver-lite",
   "description": "Plugin to run a local webserver with LiveReload based on gulp-webserver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "tamtakoe",
     "email": "tamtakoe@gmail.com"
